@@ -9,6 +9,7 @@ This is a helper repository containing custom cmake packages used to compile [MR
 - LibXml2: https://github.com/GNOME/libxml2
 - ZLib: https://www.zlib.net/
 - Qt: https://www.qt.io/
+- Embree: https://github.com/RenderKit/embree
 
 ## Linux/Mingw
 On linux and mingw you don't need these and should use the package manager instead
