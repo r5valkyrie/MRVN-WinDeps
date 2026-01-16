@@ -1,0 +1,18 @@
+[submodule "glib"]
+	path = glib
+	url = https://github.com/GNOME/glib.git
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
+[submodule "libpng"]
+	path = libpng
+	url = https://git.code.sf.net/p/libpng/code
+[submodule "libxml2"]
+	path = libxml2
+	url = https://github.com/GNOME/libxml2.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
+[submodule "embree"]
+	path = embree
+	url = https://github.com/RenderKit/embree.git
